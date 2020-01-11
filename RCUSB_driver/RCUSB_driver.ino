@@ -1,4 +1,4 @@
-#include "Joystick.h"
+#include "src/Joystick/Joystick.h"
 
 // Create Joystick
 Joystick_ Joystick;
