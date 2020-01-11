@@ -29,7 +29,17 @@ Prepare the driver with the end point values you got from the EPD step and calib
 
 
 **Wiring**  
-[Arduino] 5V --> [Receiver] Throttle VCC (positive)  
-[Arduino] Ground --> [Receiver] Throttle Ground (negative)  
-[Arduino] PIN 6 --> [Receiver] Throttle PWM signal  
-[Arduino] PIN 5 --> [Receiver] Steering PWM signal  
+This is the default configuration used by the program
+
+
+| Arduino | Receiver |
+| --- | --- |
+| 5V | Throttle VCC (positive) |
+| Ground | Throttle Ground (negative) |  
+| PIN 6 | Throttle PWM signal |  
+| PIN 5 | Steering PWM signal |
+
+
+**Disclaimer**
+Use this at your own risk!  
+By using this you agree that all consequences that could occur from this project is your responsibility.
