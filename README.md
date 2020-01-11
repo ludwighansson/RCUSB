@@ -40,6 +40,6 @@ This is the default configuration used by the program
 | PIN 5 | Steering PWM signal |
 
 
-**Disclaimer**
+**Disclaimer**  
 Use this at your own risk!  
 By using this you agree that all consequences that could occur from this project is your responsibility.
